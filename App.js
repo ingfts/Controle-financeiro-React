@@ -1,10 +1,6 @@
 
 import React, { useCallback, useState } from 'react'
 import './App.css'
-import Valor from './componentes/Valor'
-import Resultado from './componentes/Resultado'
-
-
 
 
 export default function App(){
