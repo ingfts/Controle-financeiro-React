@@ -1,7 +1,7 @@
 # CONTROLE FINANCEIRO EM REACT🧮
 
 ## FUNCIONALIDADES⚙️: 
-> Calcular o valor inserido nos campos: 
+> 1 - Calcula o valor inserido nos campos: 
 
 *  Mercado
 *  Academia
@@ -12,7 +12,7 @@
 *  Faculdade
 *  Farmácia
   
-> mostrar o somatório
+> 2- mostra o somatório das despesas
 
 ## PROPÓSITO👩🏻‍🏫: 
 Praticar e revisar os conceitos de *useState* e *handleChange* 
